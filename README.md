@@ -1,7 +1,7 @@
 61ABC Hackathon 
 =========
 
-The 61ABC Summer 14 Hackathon Hosted by: Hackers@Berkley, CSUA, CS61 Series
+The 61ABC Summer 14 Hackathon Hosted by: Hackers@Berkley, CSUA for students of the Summer 61 Series
 
 Time: 6/18/2014. 5pm - Midnight. 
 
@@ -30,7 +30,7 @@ Workshops
 0. Git Workshop.  In this repo. 
 
 1. Building a Web Application with Python (Flask) - Link: https://github.com/daylen/cheeper
-  a. What the final product is - http://cheeper-demo.herokuapp.com
+  - What the final product is - http://cheeper-demo.herokuapp.com
 
 2. HTML Workshop - Time/Details TBD. 
 
@@ -41,8 +41,8 @@ Workshops
 Helpful content
 ================
 
-Sumukh's Hackathon Tips: https://github.com/Sumukh/HackathonWorkshop
-Guide to Git: http://42cs.github.io/book/
+- Sumukh's Hackathon Tips: https://github.com/Sumukh/HackathonWorkshop
+- Guide to Git: http://42cs.github.io/book/
 
 
 
