@@ -24,6 +24,16 @@ Schedule
 - 11:30 Submission Deadline. 
 - 11:30 - 12:00 Judging. 
 
+Setup  
+------------------
+In order to get started quickly, we ask that you have these tools installed:
+- Some sort of code editor (Sublime Text: http://www.sublimetext.com/3) 
+- Git: http://git-scm.com/download
+- Github account: https://github.com/
+- Python3: https://www.python.org/downloads/
+- Google Chrome (it HAS to be Chrome): https://www.google.com/chrome/browser/
+
+
 Workshops
 =========
 
