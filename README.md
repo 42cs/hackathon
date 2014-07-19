@@ -11,7 +11,8 @@ A hackathon is usually an event (usually around 12 to 48 hours longs) where you 
 
 Groups & Mentors
 ------------------
-Yes! If you work in a group - you will get a mentor who will help guide you in the right direction! 
+Yes! If you work in a group - you will get a mentor who will help guide you in the right direction!
+Come to the front if you don't have a group. 
 
 Schedule 
 ------------------
@@ -29,6 +30,7 @@ Setup
 In order to get started quickly, we ask that you have these tools installed:
 - Some sort of code editor (Sublime Text: http://www.sublimetext.com/3) 
 - Git: http://git-scm.com/download
+- Git GUIs: http://git-scm.com/download/gui
 - Github account: https://github.com/
 - Python3: https://www.python.org/downloads/
 - Google Chrome (it HAS to be Chrome): https://www.google.com/chrome/browser/
@@ -58,6 +60,18 @@ Go into a folder you'd like to
 
 `mkdir myhackproj`
 
+Now we'll start the git project. 
+
+`git init`
+
+This starts a git project in our folder. 
+
+Let's start our hack
+
+
+-------
+
+
 
 
 
@@ -67,10 +81,11 @@ Setting up a git repo
 - Name the repository accordingly with your project.(A word of advice, choose a simple name)
 - Then click create repository.
 - Voila, now you have a github repository in your account, this will be the environment you will keep all your project files.
+- Now you should add collborators. 
 
-=========
-Connecting to your Repo from Terminal
-
+More info
+===========
+http://42cs.github.io/book/week3/git.html
 
 =========
 Workshops
