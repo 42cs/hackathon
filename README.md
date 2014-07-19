@@ -75,7 +75,8 @@ Let's start our hack
 
 
 
-Setting up a git repo
+Setting up a git repo on github. 
+---------
 
 - All you need to do is after you are signed up to github, go to homepage and you'll see a green button that says "new repository", click that button.
 - Name the repository accordingly with your project.(A word of advice, choose a simple name)
