@@ -9,6 +9,9 @@ Submit
 -----------------
 Submit your hack here: https://docs.google.com/forms/d/1Yz2bcvZXowxVc34XuSvithKL-eWbgqlg4zYLjW7_jLM/viewform?usp=send_form
 
+Feedback
+-------------------
+Fill out this form: https://docs.google.com/forms/d/108viJINOU34UwkrtQOmZaTkm_PO5ixHeiikl4d6F3fU/viewform
 
 What is a hackathon?
 ------------------
