@@ -33,7 +33,19 @@ In order to get started quickly, we ask that you have these tools installed:
 - Python3: https://www.python.org/downloads/
 - Google Chrome (it HAS to be Chrome): https://www.google.com/chrome/browser/
 
+=========
+Setting up a git repo
+- All you need to do is after you are signed up to github, go to homepage and you'll see a green button that says "new repository", click that button.
+- Name the repository accordingly with your project.(A word of advice, choose a simple name)
+- Then click create repository.
+- Voila, now you have a github repository in your account, this will be the environment you will keep all your project files.
 
+=========
+Connecting to your Repo from Terminal
+- Go to terminal, make su
+
+
+=========
 Workshops
 =========
 
