@@ -42,7 +42,7 @@ Workshops
 1. Building a Web Application with Python (Flask) - Link: https://github.com/daylen/cheeper
   - What the final product is - http://cheeper-demo.herokuapp.com
 
-2. HTML Workshop - Time/Details TBD. 
+2. HTML Workshop - Room Here: https://github.com/webdesigndecal/cs-workshop/tree/master/su14
 
 3. Mentoring - Throughout the worksho. 
 
