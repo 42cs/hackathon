@@ -78,11 +78,11 @@ Tell git to add it.
 Commit & Saving
 --------
 Commits = = Saving in Git. 
+`git status`
+`git commit -m 'First Commit'` 
+`git log`
 
 
-Push
------
-Pull. 
 
 Setting up a git repo on github. 
 ---------
@@ -93,7 +93,17 @@ Setting up a git repo on github.
 - Voila, now you have a github repository in your account, this will be the environment you will keep all your project files.
 - Now you should add collborators. 
 
-More info
+Push
+-----
+` git push origin master` 
+
+Pull. 
+-----
+
+` git pull origin master`
+
+
+Continuing
 ===========
 http://42cs.github.io/book/week3/git.html
 
