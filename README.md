@@ -7,7 +7,7 @@ Time: 6/18/2014. NOW - Midnight.
 
 Submit
 -----------------
-URL: https://docs.google.com/forms/d/1Yz2bcvZXowxVc34XuSvithKL-eWbgqlg4zYLjW7_jLM/viewform?usp=send_form
+Submit your hack here: https://docs.google.com/forms/d/1Yz2bcvZXowxVc34XuSvithKL-eWbgqlg4zYLjW7_jLM/viewform?usp=send_form
 
 
 What is a hackathon?
