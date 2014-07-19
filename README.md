@@ -67,13 +67,22 @@ Now we'll start the git project.
 This starts a git project in our folder. 
 
 Let's start our hack
-
-
 -------
 
+Let's create a file. hack.py 
+
+Tell git to add it. 
+
+`git add hack.py`
+
+Commit & Saving
+--------
+Commits = = Saving in Git. 
 
 
-
+Push
+-----
+Pull. 
 
 Setting up a git repo on github. 
 ---------
