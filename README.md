@@ -3,7 +3,7 @@
 
 The 61ABC Summer 14 Hackathon Hosted by: Hackers@Berkley, CSUA for students of the Summer 61 Series
 
-Time: 6/18/2014. 5pm - Midnight. 
+Time: 6/18/2014. NOW - Midnight. 
 
 What is a hackathon?
 ------------------
@@ -25,7 +25,7 @@ Schedule
 - 11:30 Submission Deadline. 
 - 11:30 - 12:00 Judging. 
 
-Setup  
+Setup
 ------------------
 In order to get started quickly, we ask that you have these tools installed:
 - Some sort of code editor (Sublime Text: http://www.sublimetext.com/3) 
