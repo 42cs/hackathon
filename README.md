@@ -34,7 +34,35 @@ In order to get started quickly, we ask that you have these tools installed:
 - Google Chrome (it HAS to be Chrome): https://www.google.com/chrome/browser/
 
 =========
+
+INSTALL THIS FIRST: http://git-scm.com/download
+
+If you're using windows - use Git Bash! 
+
+Getting this repo
+-----------------
+Go into a folder and run this command. 
+
+`git clone https://github.com/42cs/hackathon.git`
+
+Now, see what files are here. We'll have a hackathon folder. 
+
+`cd hackathon`
+
+-----
+
+Creating a repo
+-------------------
+Now let's start our hackathon code. 
+Go into a folder you'd like to 
+
+`mkdir myhackproj`
+
+
+
+
 Setting up a git repo
+
 - All you need to do is after you are signed up to github, go to homepage and you'll see a green button that says "new repository", click that button.
 - Name the repository accordingly with your project.(A word of advice, choose a simple name)
 - Then click create repository.
@@ -42,7 +70,6 @@ Setting up a git repo
 
 =========
 Connecting to your Repo from Terminal
-- Go to terminal, make su
 
 
 =========
@@ -66,5 +93,32 @@ Helpful content
 - Sumukh's Hackathon Tips: https://github.com/Sumukh/HackathonWorkshop
 - Guide to Git: http://42cs.github.io/book/
 
+Ideas
+===========
+Flask chatroom: make a chatroom with flask: medium
+DanRank: Reddit/HackerNews, for pictures of Dan Garcia (or anything else, but preferrably Dan Garcia): easy
+TextAdventures.py: python textadventures game: easy
+TextAdventuresOnline.py: Online multiplayer python textadventures game: hard
+Game of life
+Wa-tor
 
+Ideas from CS42 Week 5 that can work with Flask + HTML:
+ 
+RandomExamPractice - Get a random practice problem or midterm every time you load the exam. (Can make it real time really quickly with a quick script) 
 
+RandomGifChooser - Loads a random GIF in full screen (with submission) - Based off the Flask Starter Project
+
+YoutubeSubmission - Submit related youtube videos and watch them with this interface. 
+ShareYoutube - Realtime requires some JS knowledge but not much. 
+
+StudyTIME - Flask Web App to schedule a time to study/meetup for a specific topic/class
+(side note: like pandascheduler but simpler) 
+
+TrackChanges - Updates you when a website changes. (Think telebears or cs61 project releases) 
+
+Something Fun with Twilio (An API to send SMS/make calls) 
+
+FreeFoooooood - Tracks what events have free food on campus. 
+
+- A compiler that turns an outline into an essay
+- A Chrome plugin that turns all of my currently open tabs into a Works Cited page
